@@ -1,0 +1,19 @@
+3
+Haunted Hall
+You find yourself in a long hallway of stone bricks that seems to stretch endlessly into darkness. You feel an unholy aura pressing in around you.
+1
+journal
+A tattered log of someone's life. All that can be read is some vague statements of a "darkness which lies within."
+1,-1,2,-1,-1,-1
+Bloody Room
+Dark blood stains cover the floor of this small enclosure. Cages and shackles hang from the ceiling, some still holding the skeletal remnants of whatever poor souls once were imprisoned here.
+2
+saw
+A degraded hand saw of rusted metal. It still shows marks of when it was used to tear away at the flesh of men.
+bloody knife
+This jagged blade is still encrusted with blood from long ago.
+-1,-1,0,-1,-1,-1
+Dark Altar
+A huge black altar of stone takes up most of the space in this room, its sides and top covered in symbols. Although you cannot understand what they mean, just looking at them makes you shudder.
+0
+1,-1,-1,-1,-1,-1
